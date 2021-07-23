@@ -19,3 +19,7 @@ Next, we’ll take an input image—a picture of a cat.
 <!-- ![cat](https://github.com/Muskan-goyal6/VisualizingConvnets/blob/master/images/cat.jpeg| width=100 ) -->
 ![visualise1](https://github.com/Muskan-goyal6/VisualizingConvnets/blob/master/images/cat_inp.png)
 ![visualise2](https://github.com/Muskan-goyal6/VisualizingConvnets/blob/master/images/cat_act.png)
+
+# Visualizing the filter patterns of layers
+
+![visual3](https://github.com/Muskan-goyal6/VisualizingConvnets/blob/master/images/filters.png)
